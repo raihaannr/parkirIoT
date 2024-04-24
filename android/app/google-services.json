@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "565862244195",
+    "firebase_url": "https://sistemparkiriot-8488a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sistemparkiriot-8488a",
+    "storage_bucket": "sistemparkiriot-8488a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565862244195:android:c02b86b58882b8e9adbd56",
+        "android_client_info": {
+          "package_name": "com.example.sistem_parkir_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3U4uznUT9ByrGPR38u1fq_kUj4WnDkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
